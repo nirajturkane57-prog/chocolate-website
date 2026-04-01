@@ -5,29 +5,29 @@
   <style>
     body {
       font-family: Arial;
-      text-align: center;
       background: #fff3e6;
+      text-align: center;
     }
     h1 {
-      background: brown;
+      background: #8B4513;
       color: white;
       padding: 15px;
     }
     .box {
       border: 1px solid #ccc;
-      margin: 15px;
+      border-radius: 10px;
       padding: 15px;
+      margin: 15px;
       display: inline-block;
       width: 250px;
       background: white;
-      border-radius: 10px;
     }
     button {
       background: green;
       color: white;
       padding: 10px;
       border: none;
-      cursor: pointer;
+      border-radius: 5px;
     }
   </style>
 </head>
